@@ -16,7 +16,7 @@ Before deciding which model to apply, we should first find out the time series s
 
 + No Trend, No seasonal
 + No Trend, Seasonal-Constant
-+ no-Trend, Seasonal-Increasing
++ No-Trend, Seasonal-Increasing
 ---
 + Trend-Linear, No seasonal
 + Trend-Linear, Seasonal-Constant
