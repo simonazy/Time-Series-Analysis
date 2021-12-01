@@ -1,5 +1,7 @@
 # Time-Series-Analysis
 
+[Prediction price of of Microsoft stock](Time_series_predict_microsoft.ipynb)
+
 #### Part 1
 Before deciding which model to apply, we should first find out the time series scenarios, which can be recognized by asking the following questions:
 
